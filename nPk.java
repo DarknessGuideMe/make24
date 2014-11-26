@@ -1,4 +1,4 @@
-// package Combinatorics.com;
+// package Combinatorics;
 
 import java.util.LinkedList;
 

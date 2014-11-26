@@ -1,4 +1,4 @@
-// package make24.com;
+// package make24;
 
 public class Operator {
 	// TODO: use Enum...
